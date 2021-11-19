@@ -1,3 +1,9 @@
+# Autor: Wirley Almeida
+# 18/11/2021
+# Introdução à Ciência da Computação com Python Parte 1
+# Semana 6
+# Jogo do NIM
+
 def computador_escolhe_jogada(n, m):
     jogada_computador = 1
     indicador_de_passagem = True
