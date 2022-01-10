@@ -8,7 +8,7 @@ print("A sequência termina quando o usuario digita zero.")
 n = int(input())
 lista = [n]
 
-while n != 0 and (n % 10 == 0):
+while n != 0:
     n = int(input("Próximo número da sequência: "))
     lista.append(n)
 
